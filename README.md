@@ -19,4 +19,4 @@ Deadline: 23:59; 5 of March 2023
 
 ### Setup
 
-To run the containers, simply execute `docker-compose up -d` in the same directory as the `docker-compose.yml` file.
+To run the containers, simply execute `docker-compose up` in the same directory as the `docker-compose.yml` file.
