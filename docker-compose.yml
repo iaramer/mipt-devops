@@ -23,7 +23,6 @@ services:
       - "5432:5432"
     networks:
       - app_network
-    restart: always
 
 networks:
   app_network:
