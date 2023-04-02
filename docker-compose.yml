@@ -22,6 +22,9 @@ services:
       - app_network
     volumes:
       - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: user
+      MONGO_INITDB_ROOT_PASSWORD: password
 
 networks:
   app_network:

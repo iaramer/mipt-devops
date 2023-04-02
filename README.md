@@ -13,7 +13,7 @@ Deadline: 23:59; 5 of March 2023
 
 ### TODO:
 
-- [ ] You have to spin up a database near your Jupyter container using Docker Compose. This can be any database you want MongoDB or PostgreSQL for example. 
+- [x] You have to spin up a database near your Jupyter container using Docker Compose. This can be any database you want MongoDB or PostgreSQL for example. 
 - [ ] Using this database you have to store processed data you collected earlier. (You have to extract features yout there and put them in to DB).
 - [ ] As a result I want to see GitHub repo with all your source code and a working Jupyter instance where I could access your data.
 
