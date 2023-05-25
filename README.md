@@ -2,6 +2,8 @@
 
 ## Lab 1
 
+### TODO:
+
 - [x] First lab: you have to create your own network and virtual machine using Yandex.Cloud. 
 
 - [x] Using this machine you have to deploy Jupyter.Lab publicly available and protected by password. You have to use docker for that.
@@ -20,3 +22,11 @@ Deadline: 23:59; 5 of March 2023
 ### Setup
 
 To run the containers, simply execute `docker-compose up` in the same directory as the `docker-compose.yml` file.
+
+## Lab 3
+
+### TODO:
+
+- [x] Using data collected during lab2 you have to train your model using clear.ml app
+- [x] During your interaction with clear.ml you have to setup a remote agent to process your training job 
+- [x] develop hyperoptimistaion step to pick best hyperparameters for your model.
